@@ -17,7 +17,7 @@ the back-end, also integrated Stripe-API to handle payments.
 
 1. <b> React.js </b> :- To build components and to manage the state of the app. 
 2. <b> Next.js </b> :- to implement Server-side rendering and Static Generation
-3. <b> Sanity.io :- To manage back-end
+3. <b> Sanity.io </b>:- To manage back-end
 4. <b> Versel </b> :- For hosting
 
 ## Features
