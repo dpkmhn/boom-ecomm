@@ -46,15 +46,15 @@ the back-end, also integrated Stripe-API to handle payments.
 ## Features
 
 ### Homepage:-
-<img src="screenshots/header.png" alt="Smiley face" width = "800"  height = "600">
-<img src="screenshots/best-seller.png" alt="Smiley face" width = "800"  height = "600">
-<img src="screenshots/footer.png" alt="Smiley face" width = "800"  height = "600">
+<img src="screenshots/header.png" alt="Smiley face" width = "800"  height = "400">
+<img src="screenshots/best-seller.png" alt="Smiley face" width = "800"  height = "400">
+<img src="screenshots/footer.png" alt="Smiley face" width = "800"  height = "400">
 
 ### Product page:-
-<img src="screenshots/product.png" alt="Smiley face" width = "800"  height = "600">
+<img src="screenshots/product.png" alt="Smiley face" width = "800"  height = "400">
 
 ### Cart page:-
-<img src="screenshots/cart.png" alt="Smiley face" width = "800"  height = "600">
+<img src="screenshots/cart.png" alt="Smiley face" width = "800"  height = "400">
 
 ### Stripe checkout page:-
-<img src="screenshots/checkout.png" alt="Smiley face" width = "800"  height = "600">
+<img src="screenshots/checkout.png" alt="Smiley face" width = "800"  height = "400">
