@@ -2,7 +2,7 @@
 # BoomCart
 
 ## Demo
-#### Live Version :  https://boom-ecomm.vercel.app/
+#### Live Version :      https://boom-ecomm.vercel.app/
 
 ## Table of contents
 
